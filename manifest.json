@@ -1,0 +1,9 @@
+{
+  "name": "FacturaFácil - Carnicería Victor",
+  "short_name": "FacturaFácil",
+  "start_url": "./FacturaFacil.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#245c45"
+}
